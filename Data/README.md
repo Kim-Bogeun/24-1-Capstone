@@ -8,6 +8,7 @@
 
 ### Data Description
 분류를 위한 최종 사용 데이터
+이미지는 용량 문제로 일부만 업로드하였습니다.
 
 | Column    | Description    | 비고     |   
 | ------- | ---: | ---    |
