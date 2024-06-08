@@ -22,6 +22,6 @@
   pages={849--857},
   year={2018},
   organization={ACM}
-  https://github.com/yaqingwang/EANN-KDD18 
+  [link](https://github.com/yaqingwang/EANN-KDD18)
 }
 ```
