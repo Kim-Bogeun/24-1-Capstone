@@ -18,8 +18,8 @@ review_num	review_clean	Del	Category	flag	line_breaks
 | review_clean  | cleaned 텍스트  |불용어 제거, 분류를 확실하게 할 수 있는 단어 및 문장 제거|
 | helpfulness  | 도움이 되었어요 수 |   review meta|
 | rate  | 별점  | review meta|
-| realname_reviewer  | 실명리뷰어 여부  | reviewer meta|
-| top_reviewer  | 탑100, top50등 탐 리뷰어 여부  |reviewer meta|
 | title1  | 제목 유무  | review meta |
 | review_num  | 글자 수  | review meta|
 | line_breaks  | 줄바꿈 수  | review meta|
+| realname_reviewer  | 실명리뷰어 여부  | reviewer meta|
+| top_reviewer  | top100, top50등 상위 리뷰어 여부  |reviewer meta|
