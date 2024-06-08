@@ -1,21 +1,18 @@
 # 24-1-Capstone
 
+## Abstract
 
+## Dataset
 
+## Method
 
-
-
-
-
-
-
-
-
+## Experiment
 
 
 
 
 #### 모델 구조 및 구현에 도움이 된 paper
+```
 @inproceedings{wang2018eann,
   title={EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection},
   author={Wang, Yaqing and Ma, Fenglong and Jin, Zhiwei and Yuan, Ye and Xun, Guangxu and Jha, Kishlay and Su, Lu and Gao, Jing},
@@ -25,3 +22,4 @@
   organization={ACM}
   https://github.com/yaqingwang/EANN-KDD18 
 }
+```
