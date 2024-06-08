@@ -11,7 +11,9 @@
 
 
 
-#### 모델 구조 및 구현에 도움이 된 paper
+
+
+#### ※ 모델 구조 및 구현에 도움이 된 paper
 ```
 @inproceedings{wang2018eann,
   title={EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection},
