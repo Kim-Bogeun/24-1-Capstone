@@ -8,7 +8,6 @@
 
 ### Data Description
 분류를 위한 최종 사용 데이터
-review_num	review_clean	Del	Category	flag	line_breaks
 
 | Column    | Description    | 비고     |   
 | ------- | ---: | ---    |
