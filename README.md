@@ -1,4 +1,5 @@
-# 24-1-Capstone
+# Image-Text Multi-modal Sponsored Review Detection
+##  24-1-Capstone AI Project
 
 ## Abstract
 
