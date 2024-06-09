@@ -6,9 +6,8 @@
 ## Dataset
 Detailed information about the dataset is in the [Data](https://github.com/Kim-Bogeun/24-1-Capstone/tree/main/Data) folder.
 
-## Method
+## Model Structure
 ![image](https://github.com/Kim-Bogeun/24-1-Capstone/assets/127417159/70c1ab9a-d850-43cd-a7d4-2158f6870776)
-
 
 ## Experiment
 ### Model Performance Comparison
@@ -17,6 +16,7 @@ Detailed information about the dataset is in the [Data](https://github.com/Kim-B
 
 
 
+   
 #### ※ Paper that was helpful for model construction and implementation of the framework.
 [EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection](https://dl.acm.org/citation.cfm?id=3219819.3219903)     
 Github link : https://github.com/yaqingwang/EANN-KDD18
